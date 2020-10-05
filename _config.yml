@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: x0h4n30
-# instagram: myinstagram
+instagram: x0h4n30
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
