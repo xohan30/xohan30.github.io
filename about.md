@@ -24,7 +24,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
-<p> I dont do any magic with my keyboard </p>
+<p>⚠️ I dont do any magic with my keyboard </p>
 
 <h2>Projects</h2>
 
