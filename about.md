@@ -29,7 +29,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/xohan30/D3ad-Byt3" style="color:#758AA2;decoration:none">D3ad-Byt3</a></li>
-	<li><a href="https://github.com/xohan30/Calculator" style="color:#758AA2;decoration:none">Calculator</a></li>
-	<li><a href="https://github.com/xohan30/Exo-Track" style="color:#758AA2;decoration:none">Exo-Track</a></li>
+	<li><a href="https://github.com/xohan30/D3ad-Byt3" style="color:#758AA2;text-decoration:none;">D3ad-Byt3</a></li>
+	<li><a href="https://github.com/xohan30/Calculator" style="color:#758AA2;text-decoration:none;">Calculator</a></li>
+	<li><a href="https://github.com/xohan30/Exo-Track" style="color:#758AA2;text-decoration:none;">Exo-Track</a></li>
 </ul>
