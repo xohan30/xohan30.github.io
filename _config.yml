@@ -8,12 +8,12 @@ description: A blog into the world of Security
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/loggo.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://xohan30.github.io
@@ -75,7 +75,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
