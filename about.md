@@ -9,7 +9,14 @@ layout: page
 ☕️ cybersecurity student<br>
 
 <p>Yahallo!! my name is aryan aka xohan30. I am a cybersecurity student/hacker/researcher
-and a i sometimes become a programmer too. </p>
+and sometimes i become a programmer too. I am currently at my freshman year pursuing my B.Tech degree in
+cybersecurity and forrensics. I have always been fascinated towards the world of internet and hacking
+from a very young age. I used to go onto my computer and click some codes in that cmd terminal or just write some
+bat codes in the notepad to automate stuffs and oh god i really felt like a hacker. As i grew up i actually started 
+to understand the methodology behind hacking and the working of systems. I got more focused in the field and i started
+working on my skills day and night and here i am now. On a journey to make my passion and hardwork into living.</p>
+
+_"they say that hacking is not job or a profession but its an art or a way of living life"_
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
