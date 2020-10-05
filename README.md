@@ -1,5 +1,5 @@
 # Welcome To My Website's Github repository
 
-my name is xohan30 and i own and manage this website
+my name is xohan30 and i own and manage this website 👾
 
-`link` [my_web](https://xohan30.github.io)
+`link`  [click me to visit the website](https://xohan30.github.io)
