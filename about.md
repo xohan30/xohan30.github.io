@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-👾 aryan30/x0h4n30(x0h)
-📍 India  
-☕️ cybersecurity student
+👾 aryan30/x0h4n30(x0h)<br>
+📍 India  <br>
+☕️ cybersecurity student<br>
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
