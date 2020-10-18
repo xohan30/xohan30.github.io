@@ -1,5 +1,5 @@
 ---
-title: "TOP 5 CYBERBOOKS FOR BEGINNERS"
+title: "TOP 3 CYBERBOOKS FOR BEGINNERS"
 layout: post
 date: 2020-10-19 12:39
 image: /assets/images/banner.png
@@ -12,7 +12,7 @@ category: blog
 author: xohan30
 ---
 
-**Top 5 books for beginners to get into cybersecurity or to become a hacker. These books are listed on my point of view and I will not be following any order for the books. These books are for total beginners so intermediate and elite people stay away so here we go** 
+**Top 3 books for beginners to get into cybersecurity or to become a hacker. These books are listed on my point of view and I will not be following any order for the books. These books are for total beginners so intermediate and elite people stay away so here we go** 
 
 # #1 HACKING FOR DUMMIES
 
