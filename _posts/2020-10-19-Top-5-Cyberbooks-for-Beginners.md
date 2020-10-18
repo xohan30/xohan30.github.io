@@ -3,7 +3,7 @@ title: "TOP 5 CYBERBOOKS FOR BEGINNERS"
 layout: post
 date: 2020-10-19 22:48
 image: /assets/images/banner.png
-headerImage: false
+headerImage: true
 category: blog
 author: xohan30
 ---
