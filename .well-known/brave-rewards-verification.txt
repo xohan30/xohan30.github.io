@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xohan30.codes 
+Token: 49860d16b95f029ace8e5b4865e2f03c3e5c87f503d9ae74603e38e39a6daa79
