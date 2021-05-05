@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-👾 aryan30/x0h4n30(x0h)<br>
+👾 x0h4n30(x0h)<br>
 📍 underWorld <br>
 ☕️ cybersecurity student<br>
 
-<p>Yahallo!! my name is aryan aka xohan30. I am a cybersecurity student/hacker/researcher
+<p>Yahallo!! my name is xohan30. I am a cybersecurity student/hacker/researcher
 and sometimes i become a programmer too. I am currently at my freshman year pursuing B.Tech degree in
 cybersecurity and forensics. I have always been fascinated towards the world of internet and hacking
 from a very young age. I used to go onto my computer and click some codes in that cmd terminal or just write some
