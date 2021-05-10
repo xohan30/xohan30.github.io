@@ -8,8 +8,7 @@ layout: page
 📍 underWorld <br>
 ☕️ cybersecurity student<br>
 
-<p>Yahallo!! my name is xohan30. I am a cybersecurity student/hacker/researcher
-and sometimes i become a programmer too. I am currently at my freshman year pursuing B.Tech degree in
+<p>Yahallo!! I am xohan30. I am a cybersecurity student/hacker/researcher/programmer. I am currently a freshman pursuing B.Tech degree in
 cybersecurity and forensics. I have always been fascinated towards the world of internet and hacking
 from a very young age. I used to go onto my computer and click some codes in that cmd terminal or just write some
 bat scripts in notepad to automate stuffs and oh god i really felt like a hacker. As i grew up i actually started 
@@ -20,7 +19,7 @@ for everything they have tought me in life.</p>
 _"they say that hacking is not a job or a profession but its an art or a way of living life"_
 
 <p>
-AHH and apart from hacking i like eating good food(vegetarian), building cool projects, drinking coffee and watching anime.
+Other Hobby : Watching Anime
 </p>
 
 <h2>Skills</h2>
