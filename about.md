@@ -19,7 +19,7 @@ for everything they have tought me in life.</p>
 
 _"they say that hacking is not a job or a profession but its an art or a way of living life"_
 
-<p>And lastly i would like to thank both of my parents for being such a supportive one by letting me get into the field of hacking.
+<p>
 AHH and apart from hacking i like eating good food(vegetarian), building cool projects, drinking coffee and watching anime.
 </p>
 
